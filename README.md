@@ -22,6 +22,7 @@ Profile with Favorites
 <img width="1011" height="421" alt="Screenshot 2025-08-25 at 11 11 14 AM" src="https://github.com/user-attachments/assets/ed99156f-6174-49c9-99ff-a7eaaa8e39a5" />
 
 Login Page
+
 <img width="904" height="412" alt="Screenshot 2025-08-25 at 11 11 47 AM" src="https://github.com/user-attachments/assets/1c1a1419-d38d-438a-8252-191f5c279bae" />
 
 ## 📌 Assumptions
