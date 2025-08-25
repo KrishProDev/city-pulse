@@ -3,8 +3,7 @@
 City Pulse is a React web application to explore live events using the **Ticketmaster Discovery API**.  
 Users can search for events by keyword and city, view event details with venue maps, mark favorites, and toggle between English/Arabic (RTL).  
 
-🚀 [Live Demo on Vercel](https://your-vercel-demo-link.vercel.app)  
-📷 Screenshots: (add below after running locally or on Vercel)
+🚀 [Live Demo](https://city-pulse-ten.vercel.app)  
 
 🖼️ Screenshots
 
